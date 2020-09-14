@@ -15,3 +15,4 @@
 - Talk and sharing in Twitter 🗣
 - Job requests Linkedin ☕️
 - I study in Platzi 👨‍🎓
+- Projects listed https://www.notion.so/escuelajs/afe58a5c5f7b45379ad5eefb862eb315?v=e1894bf4122b48b8be4cf701bd93b1e1
