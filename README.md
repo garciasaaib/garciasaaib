@@ -3,38 +3,32 @@
   
   I’m a Full-Stack Developer with 3 years of experience. I enjoy being involved in the project both technical and management. I have knowledge of UI wire-framing and Data Bases. Recognized for being disciplined and self-taught. My latest learning topics were React Native for mobile development and Scrum. I am currently interested in adding Java and Azure to my path. My current goal is to become into a Tech Lead.
 
-🔭  I’m currently working on my portfolio
+🔭  I’m currently working on a Quasar + Vue project
 
-🌱  I’m currently learning Javascript as a fullstack language
+👯  I’m looking to collaborate on interesting web or mobile projects.
 
-👯  I’m looking to collaborate on web / mobile applications, and API's
+- 🌱 I’m currently learning **Quasar, a Vue framework**
 
-💬  Ask me about Javascript or photografy
+- 👨‍💻 Project list [Here](https://www.notion.so/escuelajs/afe58a5c5f7b45379ad5eefb862eb315?v=e1894bf4122b48b8be4cf701bd93b1e1) 
 
-😄  Pronouns: he / his
+- 📝All my notes in [Notion](https://www.notion.so/escuelajs/JavaScript-Tools-17d76e4e429a4a9e961f6b46cd7ea2c7) 
+
+- 💬 Ask me about **React, Typescript, Javascript**
+
+- 😄  Pronouns: he / his
+- 
+- 👨‍🎓 I study in [Platzi](https://platzi.com/@Adreanzoe) 
 
 ## 📫 How to reach me
-- All my content in [Notion](https://www.notion.so/escuelajs/JavaScript-Tools-17d76e4e429a4a9e961f6b46cd7ea2c7) 📝
-- Talk and sharing in [Twitter](https://twitter.com/adreanzoe) 🗣
-- Job requests [Linkedin](https://www.linkedin.com/in/adrian-garcia-saaib) ☕️
-- I study in [Platzi](https://platzi.com/@Adreanzoe) 👨‍🎓
-- Gain an extra [free month](https://platzi.com/c/adranuz)
-- Project list [Here](https://www.notion.so/escuelajs/afe58a5c5f7b45379ad5eefb862eb315?v=e1894bf4122b48b8be4cf701bd93b1e1) 
+- [Linkedin](https://www.linkedin.com/in/adrian-garcia-saaib) ☕️
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adranuz&label=Profile%20views&color=0e75b6&style=flat" alt="adranuz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adranuz" alt="adranuz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/adranuz" target="blank"><img src="https://img.shields.io/twitter/follow/adranuz?logo=twitter&style=for-the-badge" alt="adranuz" /></a> </p>
 
-- 🌱 I’m currently learning **Quasar, a Vue framework**
-
-- 👨‍💻 All of my projects are available at [https://yellow-chemistry-5f4.notion.site/afe58a5c5f7b45379ad5eefb862eb315?v=b0ed0528694a4f2ba18948bfa8359a29](https://yellow-chemistry-5f4.notion.site/afe58a5c5f7b45379ad5eefb862eb315?v=b0ed0528694a4f2ba18948bfa8359a29)
-
-- 💬 Ask me about **React, Typescript, Javascript**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,11 +46,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adranuz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adranuz" /></a><a href="https://ko-fi.com/adreanzoe"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adreanzoe" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adranuz&show_icons=true&locale=en&layout=compact" alt="adranuz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adranuz&show_icons=true&locale=en" alt="adranuz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adranuz&" alt="adranuz" /></p>
 
 
 
