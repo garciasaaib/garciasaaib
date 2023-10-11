@@ -2,7 +2,11 @@
 <h3 align="center">A passionate JavaScript Developer from México</h3>
   
   I’m a Full-Stack Developer with 3 years of experience. I enjoy being involved in the project both technical and management. I have knowledge of UI wire-framing and Data Bases. Recognized for being disciplined and self-taught. My latest learning topics were React Native for mobile development and Scrum. I am currently interested in adding Java and Azure to my path. My current goal is to become into a Tech Lead.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adranuz&show_icons=true&locale=en&layout=compact" alt="adranuz" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adranuz&show_icons=true&locale=en" alt="adranuz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adranuz&" alt="adranuz" /></p>
 🔭  I’m currently working on a Quasar + Vue project
 
 👯  I’m looking to collaborate on interesting web or mobile projects.
@@ -21,6 +25,7 @@
 
 ## 📫 How to reach me
 - [Linkedin](https://www.linkedin.com/in/adrian-garcia-saaib) ☕️
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adranuz&label=Profile%20views&color=0e75b6&style=flat" alt="adranuz" /> </p>
