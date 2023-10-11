@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adrian Garcia</h1>
 <h3 align="center">A passionate JavaScript Developer from México</h3>
   
-  I’m a Full-Stack Developer with 3 years of experience. I enjoy being involved in the project both technical and management. I have knowledge of UI wire-framing and Data Bases. Recognized for being disciplined and self-taught. My latest learning topics were React Native for mobile development and Scrum. I am currently interested in adding Java and Azure to my path. My current goal is to become into a Tech Lead.
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adranuz&show_icons=true&locale=en&layout=compact" alt="adranuz" /></p>
+I’m a Full-Stack Developer with 3 years of experience. I enjoy being involved in the project both technical and management. I have knowledge of UI wire-framing and Data Bases. Recognized for being disciplined and self-taught. My latest learning topics were React Native for mobile development and Scrum. I am currently interested in adding Java and Azure to my path. My current goal is to become into a Tech Lead.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adranuz&show_icons=true&locale=en" alt="adranuz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adranuz&" alt="adranuz" /></p>
 🔭  I’m currently working on a Quasar + Vue project
 
 👯  I’m looking to collaborate on interesting web or mobile projects.
@@ -23,19 +20,13 @@
 - 
 - 👨‍🎓 I study in [Platzi](https://platzi.com/@Adreanzoe) 
 
-## 📫 How to reach me
-- [Linkedin](https://www.linkedin.com/in/adrian-garcia-saaib) ☕️
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adranuz&label=Profile%20views&color=0e75b6&style=flat" alt="adranuz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adranuz" alt="adranuz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/adranuz" target="blank"><img src="https://img.shields.io/twitter/follow/adranuz?logo=twitter&style=for-the-badge" alt="adranuz" /></a> </p>
 
-
-<h3 align="left">Connect with me:</h3>
+## 📫 How to reach me
 <p align="left">
 <a href="https://codepen.io/adranuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="adranuz" height="30" width="40" /></a>
 <a href="https://dev.to/adranuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adranuz" height="30" width="40" /></a>
