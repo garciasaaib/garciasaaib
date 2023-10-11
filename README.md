@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian Garcia</h1>
-<h3 align="center">I’m a Full-Stack Developer with 3 years of experience. I enjoy being involved in the project both technical and management. I have knowledge of UI wire-framing and Data Bases. Recognized for being disciplined and self-taught. My latest learning topics were React Native for mobile development and Scrum. I am currently interested in adding Java and Azure to my path. My current goal is to become into a Tech Lead.</h3>
+<h3 align="center">A passionate JavaScript Developer from México</h3>
+  
+  I’m a Full-Stack Developer with 3 years of experience. I enjoy being involved in the project both technical and management. I have knowledge of UI wire-framing and Data Bases. Recognized for being disciplined and self-taught. My latest learning topics were React Native for mobile development and Scrum. I am currently interested in adding Java and Azure to my path. My current goal is to become into a Tech Lead.
 
 🔭  I’m currently working on my portfolio
 
