@@ -22,10 +22,10 @@ I’m a Full-Stack Developer with 3 years of experience. I enjoy being involved 
 
 ## 📫 How to reach me
 <p align="left">
-<a href="https://codepen.io/adranuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="adranuz" height="30" width="40" /></a>
-<a href="https://dev.to/adranuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adranuz" height="30" width="40" /></a>
-<a href="https://twitter.com/adranuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adranuz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adrian-garcia-saaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian-garcia-saaib" height="30" width="40" /></a>
+<a href="https://codepen.io/garciasaaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="adranuz" height="30" width="40" /></a>
+<a href="https://dev.to/garciasaaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adranuz" height="30" width="40" /></a>
+<a href="https://twitter.com/garciasaaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adranuz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/garciasaaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian-garcia-saaib" height="30" width="40" /></a>
 <a href="https://instagram.com/adranzoe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adranzoe" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/garciasaaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="garciasaaib" height="30" width="40" /></a>
 </p>
