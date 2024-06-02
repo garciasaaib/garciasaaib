@@ -4,11 +4,10 @@
 I’m a Full-Stack Developer with 3 years of experience. I enjoy being involved in the project both technical and management. I have knowledge of UI wire-framing and Data Bases. Recognized for being disciplined and self-taught. My latest learning topics were React Native for mobile development and Scrum. I am currently interested in adding Java and Azure to my path. My current goal is to become into a Tech Lead.
 
 
-- 🔭  I’m currently working on a Quasar + Vue project
  
 - 👯  I’m looking to collaborate on interesting web or mobile projects.
 
-- 🌱 I’m currently learning **Quasar, a Vue framework**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 Project list [Here](https://www.notion.so/escuelajs/afe58a5c5f7b45379ad5eefb862eb315?v=e1894bf4122b48b8be4cf701bd93b1e1) 
 
